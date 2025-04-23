@@ -1,4 +1,4 @@
-package countfrequency;
+package interviewprep.countfrequency;
 
 import java.util.HashMap;
 import java.util.Map;
